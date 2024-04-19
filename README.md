@@ -1,3 +1,5 @@
+# Hi there! <img src="wave.gif" width="36px">
+
 # 💫 About Me:
 🌱 I’m currently learning *Next.js*<br>📫 How to reach me *jevinleon@gmail.com*<br>⚡ Fun fact *I love playing games! But not so much when it comes to making 'em.*
 
